@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Reversed Strings.cpp">
+    <ClCompile Include="Even or Odd.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Convert a Number to a String!.cpp">
+    <ClCompile Include="Return Negative.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Returning Strings.cpp">
+    <ClCompile Include="Opposites Attract.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
