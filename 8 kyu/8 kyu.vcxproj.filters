@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Even or Odd.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Return Negative.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Opposites Attract.cpp">
+    <ClCompile Include="Find the smallest integer in the array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
