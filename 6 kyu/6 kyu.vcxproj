@@ -18,14 +18,11 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="You%27re a square!.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{a330c62e-02b7-4cef-8a29-ff428a3c5da1}</ProjectGuid>
-    <RootNamespace>My7kyu</RootNamespace>
+    <ProjectGuid>{516e580a-8551-406f-b0a7-2e8bd6566a62}</ProjectGuid>
+    <RootNamespace>My6kyu</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
