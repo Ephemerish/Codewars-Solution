@@ -8,8 +8,12 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 * 
 
 ### 6 kyu
+
+* [Persistent Bugger](6-kyu/Persistent-Bugger.md)
 * [Tribonacci Sequence](6-kyu/Tribonacci-Sequence.md)
 
 ### 7 kyu
 * 
+
 ### 8 kyu
+*
