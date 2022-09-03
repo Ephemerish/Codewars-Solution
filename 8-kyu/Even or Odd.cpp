@@ -1,6 +1,6 @@
-//Description:
-//
-//Create a function that takes an integer as an argumentand returns "Even" for even numbers or "Odd" for odd numbers.
+Description:
+
+Create a function that takes an integer as an argumentand returns "Even" for even numbers or "Odd" for odd numbers.
 
 #include <string>
 

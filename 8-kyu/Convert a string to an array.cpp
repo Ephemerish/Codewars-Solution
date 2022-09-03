@@ -1,11 +1,11 @@
-//Description:
-//
-//Write a function to split a stringand convert it into an array of words.
-//Examples(Input ==> Output) :
-//
-//	"Robin Singh" ==> ["Robin", "Singh"]
-//
-//	"I love arrays they are my favorite" ==> ["I", "love", "arrays", "they", "are", "my", "favorite"]
+Description:
+
+Write a function to split a stringand convert it into an array of words.
+Examples(Input ==> Output) :
+
+	"Robin Singh" ==> ["Robin", "Singh"]
+
+	"I love arrays they are my favorite" ==> ["I", "love", "arrays", "they", "are", "my", "favorite"]
 
 #include <vector>
 #include <string>

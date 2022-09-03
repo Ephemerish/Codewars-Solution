@@ -1,6 +1,6 @@
-//Description:
-//
-//Complete the method that takes a boolean valueand return a "Yes" string for true, or a "No" string for false.
+Description:
+
+Complete the method that takes a boolean valueand return a "Yes" string for true, or a "No" string for false.
 
 #include <string>
 
