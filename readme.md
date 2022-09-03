@@ -13,7 +13,7 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 * [Tribonacci Sequence](6-kyu/Tribonacci-Sequence.md)
 
 ### 7 kyu
-* [Tribonacci Sequence](7-kyu/Beginner-Series-no.-3-Sum-of-Numbers.md)
+* [Beginner Series no. 3 Sum of Numbers](7-kyu/Beginner-Series-no.-3-Sum-of-Numbers.md)
 
 ### 8 kyu
 * [Basic Mathematical Operations](8-kyu/Basic-Mathematical-Operations.md)
