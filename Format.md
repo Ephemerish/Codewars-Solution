@@ -1,8 +1,6 @@
 ## Description
 
-### Example
 
-      example
 
 **Kata's link:** [ ](/cpp)
 
@@ -20,6 +18,5 @@
 
 ## My Solutions
 ```cpp
-
 
 ```
