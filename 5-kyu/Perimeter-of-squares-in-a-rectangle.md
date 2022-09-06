@@ -6,7 +6,7 @@ Could you give the sum of the perimeters of all the squares in a rectangle when 
 
 ![Fibonacci sequence](https://i.imgur.com/EYcuB1wm.jpg)
 
-### Hint:
+### Hint: 
 
 See Fibonacci sequence
 
