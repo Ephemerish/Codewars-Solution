@@ -12,11 +12,13 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 ### 5 kyu
 * [Beeramid](5-kyu/Beeramid.md)
 * [int32 to IPv4](5-kyu/int32-to-IPv4.md)
+* [Perimeter of squares in a rectangle](5-kyu/Perimeter-of-squares-in-a-rectangle.md)
 * [Simple Pig Latin](5-kyu/Simple-Pig-Latin.md)
 * [](5-kyu/.md)
 * [](5-kyu/.md)
 
 ### 6 kyu
+* [Bouncing Balls](6-kyu/Bouncing-Balls.md)
 * [Find the odd int](6-kyu/Find-the-odd-int.md)
 * [Persistent Bugger](6-kyu/Persistent-Bugger.md)
 * [Tribonacci Sequence](6-kyu/Tribonacci-Sequence.md)
@@ -32,7 +34,8 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 * [Find the next perfect square!](7-kyu/Find-the-next-perfect-square!.md)
 * [Get the Middle Character](7-kyu/Get-the-Middle-Character.md)
 * [Is this a triangle](7-kyu/Is-this-a-triangle.md)
- * [Number of People in the Bus](7-kyu/Number-of-People-in-the-Bus.md)
+* [Isograms](7-kyu/Isograms.md)
+* [Number of People in the Bus](7-kyu/Number-of-People-in-the-Bus.md)
 * [Reverse words](7-kyu/Reverse-words.md)
 * [Square Every Digit](7-kyu/Square-Every-Digit.md)
 * [String ends with?](7-kyu/String-ends-with.md)
