@@ -7,10 +7,13 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 ### 4 kyu
 * [Square into Squares. Protect trees!](4-kyu/Square-into-Squares.-Protect-trees!.md)
 * [](4-kyu/.md)
+* [](4-kyu/.md)
 
 ### 5 kyu
 * [Beeramid](5-kyu/Beeramid.md)
+* [int32 to IPv4](5-kyu/int32-to-IPv4.md)
 * [Simple Pig Latin](5-kyu/Simple-Pig-Latin.md)
+* [](5-kyu/.md)
 * [](5-kyu/.md)
 
 ### 6 kyu
