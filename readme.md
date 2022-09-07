@@ -7,7 +7,6 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 ### 4 kyu
 * [Square into Squares. Protect trees!](4-kyu/Square-into-Squares.-Protect-trees!.md)
 * [](4-kyu/.md)
-* [](4-kyu/.md)
 
 ### 5 kyu
 * [Beeramid](5-kyu/Beeramid.md)
@@ -15,14 +14,15 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 * [Perimeter of squares in a rectangle](5-kyu/Perimeter-of-squares-in-a-rectangle.md)
 * [Simple Pig Latin](5-kyu/Simple-Pig-Latin.md)
 * [](5-kyu/.md)
-* [](5-kyu/.md)
 
 ### 6 kyu
 * [Bouncing Balls](6-kyu/Bouncing-Balls.md)
+* [Build Tower](6-kyu/Build-Tower.md)
 * [Find the odd int](6-kyu/Find-the-odd-int.md)
+* [Mexican Wave](6-kyu/Mexican-Wave.md)
 * [Persistent Bugger](6-kyu/Persistent-Bugger.md)
+* [Simple Encryption #1 - Alternating Split](6-kyu/Simple-Encryption-#1-Alternating-Split.md)
 * [Tribonacci Sequence](6-kyu/Tribonacci-Sequence.md)
-* [](6-kyu/.md)
 * [](6-kyu/.md)
 
 ### 7 kyu
@@ -33,15 +33,16 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 * [Exes and Ohs](7-kyu/Exes-and-Ohs.md)
 * [Find the next perfect square!](7-kyu/Find-the-next-perfect-square!.md)
 * [Get the Middle Character](7-kyu/Get-the-Middle-Character.md)
+* [Growth of a Population](7-kyu/Growth-of-a-Population.md)
 * [Is this a triangle](7-kyu/Is-this-a-triangle.md)
 * [Isograms](7-kyu/Isograms.md)
 * [Number of People in the Bus](7-kyu/Number-of-People-in-the-Bus.md)
 * [Reverse words](7-kyu/Reverse-words.md)
 * [Square Every Digit](7-kyu/Square-Every-Digit.md)
 * [String ends with?](7-kyu/String-ends-with.md)
+* [Sum of odd numbers](7-kyu/Sum-of-odd-numbers.md)
 * [Sum of the first nth term of Series](7-kyu/Sum-of-the-first-nth-term-of-Series.md)
 * [You're a square!](7-kyu/You're-a-square!.md)
-* [](7-kyu/.md)
 * [](7-kyu/.md)
 
 ### 8 kyu
@@ -56,6 +57,7 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 * [Find Maximum and Minimum Values of a List](8-kyu/Find-Maximum-and-Minimum-Values-of-a-List.md)
 * [Find the smallest integer in the array](8-kyu/Find-the-smallest-integer-in-the-array.md)
 * [Grasshopper - Check for factor](8-kyu/Grasshopper-Check-for-factor.md)
+* [Grasshopper - Grade book](8-kyu/Grasshopper-Grade-book.md)
 * [If you can't sleep, just count sheep!!](8-kyu/If-you-can't-sleep,-just-count-sheep!!.md)
 * [Is he gonna survive](8-kyu/Is-he-gonna-survive.md)
 * [Keep Hydrated!](8-kyu/Keep-Hydrated!.md)
@@ -69,6 +71,5 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 * [Sum of positive](8-kyu/Sum-of-positive.md)
 * [Switch it Up!](8-kyu/Switch-it-Up!.md)
 * [The Feast of Many Beasts](8-kyu/The-Feast-of-Many-Beasts.md)
-* [](8-kyu/.md)
 * [](8-kyu/.md)
 
