@@ -17,8 +17,11 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 
 ### 6 kyu
 * [Bouncing Balls](6-kyu/Bouncing-Balls.md)
+* [Build a pile of Cubes](6-kyu/Build-a-pile-of-Cubes.md)
 * [Build Tower](6-kyu/Build-Tower.md)
+* [Delete occurrences of an element if it occurs more than n times](6-kyu/Delete-occurrences-of-an-element-if-t-occurs-more-than-n-times.md)
 * [Find the odd int](6-kyu/Find-the-odd-int.md)
+* [Find the unique number](6-kyu/Find-the-unique-number.md)
 * [Mexican Wave](6-kyu/Mexican-Wave.md)
 * [Persistent Bugger](6-kyu/Persistent-Bugger.md)
 * [Simple Encryption #1 - Alternating Split](6-kyu/Simple-Encryption-#1-Alternating-Split.md)
