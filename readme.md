@@ -5,6 +5,7 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 
 ## Lists
 ### 4 kyu
+* [Brainfuck Translator](4-kyu/Brainfuck-Translator.md)
 * [Square into Squares. Protect trees!](4-kyu/Square-into-Squares.-Protect-trees!.md)
 * [](4-kyu/.md)
 
