@@ -7,12 +7,14 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 ### 4 kyu
 * [Brainfuck Translator](4-kyu/Brainfuck-Translator.md)
 * [Multiplying numbers as strings](4-kyu/Multiplying-numbers-as-strings.md)
+* [parseInt() reloaded](4-kyu/parseInt()-reloaded.md)
 * [Square into Squares. Protect trees!](4-kyu/Square-into-Squares.-Protect-trees!.md)
 * [](4-kyu/.md)
 
 ### 5 kyu
 * [Beeramid](5-kyu/Beeramid.md)
 * [int32 to IPv4](5-kyu/int32-to-IPv4.md)
+* [Maximum subarray sum](5-kyu/Maximum-subarray-sum.md)
 * [Perimeter of squares in a rectangle](5-kyu/Perimeter-of-squares-in-a-rectangle.md)
 * [Simple Pig Latin](5-kyu/Simple-Pig-Latin.md)
 * [](5-kyu/.md)
