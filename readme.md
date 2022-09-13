@@ -6,6 +6,7 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 ## Lists
 ### 4 kyu
 * [Brainfuck Translator](4-kyu/Brainfuck-Translator.md)
+* [Human readable duration format](4-kyu/Human-readable-duration-format.md)
 * [Multiplying numbers as strings](4-kyu/Multiplying-numbers-as-strings.md)
 * [parseInt() reloaded](4-kyu/parseInt()-reloaded.md)
 * [Square into Squares. Protect trees!](4-kyu/Square-into-Squares.-Protect-trees!.md)
