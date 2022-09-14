@@ -29,6 +29,7 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 * [Find the unique number](6-kyu/Find-the-unique-number.md)
 * [Mexican Wave](6-kyu/Mexican-Wave.md)
 * [Persistent Bugger](6-kyu/Persistent-Bugger.md)
+* [Replace With Alphabet Position](6-kyu/Replace-With-Alphabet-Position.md)
 * [Simple Encryption #1 - Alternating Split](6-kyu/Simple-Encryption-#1-Alternating-Split.md)
 * [Tribonacci Sequence](6-kyu/Tribonacci-Sequence.md)
 * [](6-kyu/.md)
