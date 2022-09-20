@@ -4,7 +4,12 @@ This is My Codewars solutions with there 2 best rated practices
 Here is my codewars homepage: https://github.com/Ephemerish.
 
 ## Lists
+
+### 3 kyu
+* [The Lift](3-kyu/The-Lift.md)
+
 ### 4 kyu
+* [Adding Big Numbers](4-kyu/Adding-Big-Numbers.md)
 * [Brainfuck Translator](4-kyu/Brainfuck-Translator.md)
 * [Human readable duration format](4-kyu/Human-readable-duration-format.md)
 * [Multiplying numbers as strings](4-kyu/Multiplying-numbers-as-strings.md)
