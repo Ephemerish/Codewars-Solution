@@ -98,13 +98,17 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 * [](c/4-kyu/.md)
 
 ### 5 kyu
+* [RGB To Hex Conversion](c/5-kyu/RGB-To-Hex-Conversion.md)
 * [](c/5-kyu/.md)
 
 ### 6 kyu
+* [Pascal's Triangle](c/6-kyu/Pascal's-Triangle.md)
 * [](c/6-kyu/.md)
 
 ### 7 kyu
+* [The highest profit wins!](c/7-kyu/The-highest-profit-wins!.md)
 * [](c/7-kyu/.md)
 
 ### 8 kyu
+* [Square(n) Sum](c/8-kyu/Square(n)-Sum.md)
 * [](c/8-kyu/.md)
