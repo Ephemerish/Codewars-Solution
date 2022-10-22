@@ -28,6 +28,7 @@ Here is my codewars homepage: https://github.com/Ephemerish.
 * [](c++/5-kyu/.md)
 
 ### 6 kyu
+* [Are they the "same"?](c++/6-kyu/Are-they-the-same.md)
 * [Bouncing Balls](c++/6-kyu/Bouncing-Balls.md)
 * [Build a pile of Cubes](c++/6-kyu/Build-a-pile-of-Cubes.md)
 * [Build Tower](c++/6-kyu/Build-Tower.md)
