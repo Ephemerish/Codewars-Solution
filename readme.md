@@ -1,7 +1,7 @@
 ## Codewars-Solution
-This is My Codewars solutions with there 2 best rated practices
+Welcome to my collection of Codewars solutions! I have included the two highest-rated practices here to browse and learn from.
 
-Here is my codewars homepage: https://github.com/Ephemerish.
+Here is my codewars homepage: https://www.codewars.com/users/Ephemeridesh
 
 ## Lists
 
